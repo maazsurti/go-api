@@ -41,3 +41,13 @@ go install .
 ```
 
 ---
+
+## Usage
+
+Air package is already installed in the project which will reload the project every time a change is detected.
+
+##### Just run: 
+
+`$ air`
+
+in the main directory of the project to start the server
